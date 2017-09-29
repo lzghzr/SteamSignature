@@ -12,7 +12,7 @@ http://www.examples.com/signature.php?steamid=xxxxxxxxxxxxxxxxx
 
 当然也可以直接用我的
 
-https://lzzr.me/steam/signature/xxxxxxxxxxxxxxxxx.png
+https://steam.halaal.win/signature/xxxxxxxxxxxxxxxxx.png
 
 不过我不保证这个随时可用
 
